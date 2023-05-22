@@ -2,7 +2,7 @@
 
 Mobile app for planning, booking, and managing trips and reservations.
 
-![Hodophile Logo](app_logo.png)
+![Hodophile Logo](travelgenie.png)
 
 ## Introduction
 
